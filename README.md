@@ -76,9 +76,6 @@ with open('theme.csv') as file:
 | RBLX | Roblox's gaming platform allows users to create and monetize their own games, attracting gaming influencers and positioning the company to benefit from the influencer-driven gaming trend. | claude |
 | SQSP | Squarespace's website builder and e-commerce tools are used by many influencers and content creators, making it a key player in the influencer-driven digital presence market. | claude |
 | WIX | Wix's website builder platform enables influencers to create their own websites and portfolios, positioning the company to benefit from the growing influencer economy. | claude |
-| AMD |  | twitter |
-| IBM |  | twitter |
-| INTC |  | twitter |
 <!--[[[end]]]-->
 
 ## License
